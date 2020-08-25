@@ -1,0 +1,10 @@
+uuid,Members,Answers,Fully specified name:en,Short name:en,Description:en,Data class,Data type,Allow decimals,Units,Normal high,Normal low,_version:1,_order:1040
+cc79d9d9-1a2b-4efc-a5ea-602ce00467a9,,,Normal Vaginal,Normal Vaginal,,Misc,N/A,,,,,,
+72494582-1d8c-457b-ab8c-dc78a92ba5be,,,Delivery Instrumental,Delivery Instrumental,,Misc,N/A,,,,,,
+c5e79619-de35-498c-90a4-2b254d4eb7ca,,,Cesarean Section,,,Misc,N/A,,,,,,
+f2355233-c552-4cd6-802f-0c7c75221f03,,,Not Applicable,Not Applicable,,Misc,N/A,,,,,,
+aec24dd1-81b8-4d2c-98a7-d5708289b04d,,Normal Vaginal;Delivery Instrumental;Cesarean Section;Not Applicable,Previous Delivery Mode,Previous Delivery Mode,,Misc,Coded,,,,,,
+a2065636-5326-40f5-aed6-0cc2cca81ccc,,,Yes full name,Yes,,Misc,N/A,,,,,,
+b497171e-0410-4d8d-bbd4-7e1a8f8b504e,,,No full name,No,,Misc,N/A,,,,,,
+b1f7ebab-0ac8-4427-8068-324b276e2e93,,Yes full name;No full name,Prolonged labour,Prolonged labour,,Misc,Coded,,,,,,
+92798a2f-98ce-4e9f-8d65-d54ee939cb60,Previous Delivery Mode;Prolonged labour,,Obstetrical/Delivery History,Obstetrical/Delivery History,,Misc,N/A,,,,,,
